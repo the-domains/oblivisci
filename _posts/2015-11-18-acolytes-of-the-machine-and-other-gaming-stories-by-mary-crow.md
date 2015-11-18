@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://marycrowell.bandcamp.com/album/acolytes-of-the-machine-other-gaming-stories'
 title: 'Acolytes of the Machine & Other Gaming Stories, by Mary Crowell'
-datePublished: '2015-11-18T06:51:07.784Z'
-dateModified: '2015-11-18T06:49:23.629Z'
+datePublished: '2015-11-18T07:26:24.447Z'
+dateModified: '2015-11-18T06:57:35.180Z'
 sourcePath: _posts/2015-11-18-acolytes-of-the-machine-and-other-gaming-stories-by-mary-crow.md
 published: true
 inFeed: true
