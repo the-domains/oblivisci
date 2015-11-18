@@ -1,0 +1,23 @@
+name: Oblivisci
+favicon: null
+layout_spectrum: 0.0561584965325892
+typography_spectrum: 0.044120286125689745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7469106444623321
+  lightness: 0.31254763063043356
+  saturation: 0.4799225323367864
+  rhythmicContrast: 0.3593655005097389
+purpose: []
